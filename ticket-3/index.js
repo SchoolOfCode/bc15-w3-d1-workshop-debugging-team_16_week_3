@@ -10,3 +10,4 @@ function countNumberOfNinesInNumber(number) {
 
   return count;
 }
+console.log(countNumberOfNinesInNumber (9999))
